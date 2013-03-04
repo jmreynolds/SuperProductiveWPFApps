@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="89E4CA21-5BCE-45D3-A768-2579C96A56DC" ModuleId="ListBoxesWPF" />
+  <Module PersistentId="PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="PresentationCore" />
+  <Module PersistentId="PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="PresentationFramework" />
+</Modules>

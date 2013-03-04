@@ -1,0 +1,54 @@
+D:\Projects\Test\ResourcesExample\ResourcesExample\bin\Debug\ResourcesExample.exe
+D:\Projects\Test\ResourcesExample\ResourcesExample\bin\Debug\ResourcesExample.pdb
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\Dictionary1.baml
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\MainWindow.baml
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\ResourceDictionary1.baml
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\App.baml
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\MainWindow.g.cs
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\App.g.cs
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\ResourcesExample_MarkupCompile.cache
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\ResourcesExample.g.resources
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\ResourcesExample.Properties.Resources.resources
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\ResourcesExample.exe
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\ResourcesExample.pdb
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\MetroExample.baml
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\StyledWindow.baml
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\TemplatingExample.baml
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\MetroExample.g.cs
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\StyledWindow.g.cs
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\TemplatingExample.g.cs
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\GenerateResource.read.0.tlog
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\GenerateResource.write.0.tlog
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\TemplatedWindow.baml
+D:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\TemplatedWindow.g.cs
+d:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\CustomLayout.baml
+d:\Projects\Test\ResourcesExample\ResourcesExample\obj\x86\Debug\CustomLayout.g.cs
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\ResourcesExample.exe
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\ResourcesExample.pdb
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\bin\Debug\ResourcesExample.exe
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\bin\Debug\ResourcesExample.pdb
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\Dictionary1.baml
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\MainWindow.baml
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\MetroExample.baml
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\ResourceDictionary1.baml
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\StyledWindow.baml
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\TemplatedWindow.baml
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\TemplatingExample.baml
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\App.baml
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\CustomLayout.g.cs
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\MainWindow.g.cs
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\MetroExample.g.cs
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\StyledWindow.g.cs
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\TemplatedWindow.g.cs
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\TemplatingExample.g.cs
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\App.g.cs
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\ResourcesExample_MarkupCompile.cache
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\ResourcesExample_MarkupCompile.lref
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\CustomLayout.baml
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\ResourcesExample.g.resources
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\ResourcesExample.Properties.Resources.resources
+D:\Conferences\WPF Training\September 2012\Resources\ResourcesExample\obj\x86\Debug\ResourcesExample.csproj.GenerateResource.Cache

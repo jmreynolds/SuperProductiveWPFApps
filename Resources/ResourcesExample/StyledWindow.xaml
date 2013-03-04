@@ -1,0 +1,30 @@
+﻿<Window x:Class="ResourcesExample.StyledWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StyledWindow" Height="300" Width="300">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="40" />
+            <Setter Property="FontFamily" Value="Arabic Typesetting" />
+            <Setter Property="Background" Value="Red" />
+            <Setter Property="Foreground" Value="#FF1624FF"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="5" />
+        </Style>
+    </Window.Resources>
+    <StackPanel>
+        <Button Content="Button 1">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Fill="{DynamicResource StandardButtonBackgroundColor}" />
+                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button>Button 2</Button>
+        <Button>Button 3</Button>
+        <Button>Button 4</Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,97 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:StyledWindow.xaml" caret="926" fromTop="8" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:MainWindow.xaml.cs" caret="613" fromTop="9" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:MainWindow.xaml" caret="396" fromTop="7" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:App.xaml" caret="414" fromTop="8" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:Dictionary1.xaml" caret="286" fromTop="4" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:ResourceDictionary1.xaml" caret="107" fromTop="2" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:CustomLayout.xaml" caret="271" fromTop="4" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:Cascade.cs" caret="740" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:App.xaml" caret="371" fromTop="8" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:Dictionary1.xaml" caret="286" fromTop="4" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:MainWindow.xaml" caret="473" fromTop="11" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:MainWindow.xaml" caret="473" fromTop="11" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:MainWindow.xaml" caret="396" fromTop="8" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:MainWindow.xaml.cs" caret="613" fromTop="9" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:ResourceDictionary1.xaml" caret="220" fromTop="4" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:StyledWindow.xaml" caret="302" fromTop="2" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:StyledWindow.xaml" caret="662" fromTop="8" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:StyledWindow.xaml" caret="1028" fromTop="9" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:Cascade.cs" caret="0" fromTop="0" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:Cascade.cs" caret="716" fromTop="11" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:Cascade.cs" caret="798" fromTop="15" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:Cascade.cs" caret="275" fromTop="5" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:CustomLayout.xaml" caret="303" fromTop="5" />
+      <File id="5C9F0707-83EF-4DF2-A896-2280E69D45DE/f:CustomLayout.xaml" caret="406" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="this" priority="63" />
+      <Item value="as" priority="31" />
+      <Item value="Application`0" priority="31" />
+      <Item value="App`0" priority="31" />
+      <Item value="if" priority="31" />
+      <Item value="x" priority="31" />
+      <Item value="is" priority="31" />
+      <Item value="override" priority="63" />
+      <Item value="foreach" priority="63" />
+      <Item value="var" priority="31" />
+      <Item value="in" priority="63" />
+      <Item value="child" priority="191" />
+      <Item value="Size" priority="28" />
+      <Item value="UIElement`0" priority="31" />
+      <Item value="Children" priority="31" />
+      <Item value="new" priority="31" />
+      <Item value="Rect" priority="28" />
+      <Item value="double" priority="63" />
+      <Item value="left" priority="63" />
+      <Item value="top" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ResourcesExample.MainWindow">
+      <Item value="Resources" priority="26" />
+      <Item value="FindResource`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="Resources" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.ResourceDictionary">
+      <Item value="Clear`0" priority="26" />
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.UIElement">
+      <Item value="Measure`0" priority="26" />
+      <Item value="DesiredSize" priority="107" />
+      <Item value="Arrange`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Size">
+      <Item value="Width" priority="26" />
+      <Item value="Height" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

@@ -1,0 +1,114 @@
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\bin\Debug\LayoutArticle.exe
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\bin\Debug\LayoutArticle.pdb
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\MainWindow.baml
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\NaiveLayout.baml
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\MainWindow.g.cs
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\NaiveLayout.g.cs
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\App.g.cs
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle_MarkupCompile.cache
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.g.resources
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.Properties.Resources.resources
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.exe
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.pdb
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\SlightlyBetter.baml
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\SlightlyBetter.g.cs
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\StackedApproach.baml
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\StackedApproach.g.cs
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\CustomerView.g.cs
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle_MarkupCompile.lref
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\CustomerView.baml
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\App.baml
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\StandardDataEditLayout.baml
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\BlackDataEditLayout.baml
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\RibbonBlack.baml
+C:\My VS.Net Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\Visuals.baml
+C:\My VS.NET Projects\Test\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\Funky.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\bin\Debug\LayoutArticle.exe
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\bin\Debug\LayoutArticle.pdb
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\MainWindow.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\NaiveLayout.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\SlightlyBetter.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\StackedApproach.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\Visuals.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\App.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\CustomerView.g.cs
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\MainWindow.g.cs
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\NaiveLayout.g.cs
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\SlightlyBetter.g.cs
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\StackedApproach.g.cs
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\App.g.cs
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle_MarkupCompile.cache
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle_MarkupCompile.lref
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\CustomerView.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\BlackDataEditLayout.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\Funky.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\RibbonBlack.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\StandardDataEditLayout.baml
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.g.resources
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.Properties.Resources.resources
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.exe
+D:\Conferences\Training\WPF - Fall 2011\Styling\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.pdb
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.exe
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.pdb
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\bin\Debug\LayoutArticle.exe
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\bin\Debug\LayoutArticle.pdb
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\MainWindow.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\NaiveLayout.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\SlightlyBetter.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\StackedApproach.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\Visuals.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\App.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\CustomerView.g.cs
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\MainWindow.g.cs
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\NaiveLayout.g.cs
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\SlightlyBetter.g.cs
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\StackedApproach.g.cs
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\App.g.cs
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle_MarkupCompile.cache
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle_MarkupCompile.lref
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\CustomerView.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\BlackDataEditLayout.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\Funky.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\RibbonBlack.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\StandardDataEditLayout.baml
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.g.resources
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.Properties.Resources.resources
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Conferences\Ventyx Training\Day 3\Style003 - Advanced Layout Styling for Productive Business Apps\LayoutArticle\LayoutArticle\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.exe
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.pdb
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\bin\Debug\LayoutArticle.exe
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\bin\Debug\LayoutArticle.pdb
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\MainWindow.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\NaiveLayout.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\SlightlyBetter.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\StackedApproach.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\Visuals.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\App.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\CustomerView.g.cs
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\MainWindow.g.cs
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\NaiveLayout.g.cs
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\SlightlyBetter.g.cs
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\StackedApproach.g.cs
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\App.g.cs
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle_MarkupCompile.cache
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle_MarkupCompile.lref
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\CustomerView.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\BlackDataEditLayout.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\Funky.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\RibbonBlack.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\Styles\StandardDataEditLayout.baml
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.g.resources
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.Properties.Resources.resources
+D:\Conferences\WPF Training\September 2012\LayoutArticle\LayoutArticle\obj\x86\Debug\LayoutArticle.csproj.GenerateResource.Cache
